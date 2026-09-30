@@ -1,3 +1,5 @@
+Adding some sample text here that I will have to pull back down into my local copy.
+
 # Git Essential Training
 This is the repository for the LinkedIn Learning course Git Essential Training. The full course is available from [LinkedIn Learning][lil-course-url].
 
