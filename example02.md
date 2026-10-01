@@ -1,5 +1,5 @@
 Lorem ipsum dolor...
 
-The quick brown fox jumped over the lazy dog.
+The quick brown dog jumped over the lazy cat.
 
-Ride like the wind... by Christopher Cross
+Proud Mary... by Tina Turner
